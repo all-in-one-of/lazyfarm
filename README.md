@@ -1,3 +1,4 @@
+# [https://github.com/all-in-one-of/lazyfarm/blob/master/scene/houdini/test.hipnc](https://github.com/all-in-one-of/lazyfarm/blob/master/scene/houdini/test.hipnc)
 A very lazy renderfarm!
 
 ### testing
